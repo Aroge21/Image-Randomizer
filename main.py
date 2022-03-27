@@ -50,7 +50,7 @@ while 1:
 
     number += 1
 
-    ##with open('img_num.txt', 'w') as docNum:
-    ##    docNum.write(str(number))
+    with open('img_num.txt', 'w') as docNum:
+        docNum.write(str(number))
 
 
